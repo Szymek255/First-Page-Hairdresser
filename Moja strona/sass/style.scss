@@ -94,7 +94,7 @@ body {
 .header {
 	height: 29em;
 	margin-top: 6.5em;
-	background-image: url('/img/slider2022-3.jpg');
+	background-image: url('./img/slider2022-3.jpg');
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -388,7 +388,7 @@ footer {
 
 @media (min-width: 650px) {
 	.header {
-		background-image: url('/img/mobilka\ medium.jpg');
+		background-image: url('./img/mobilka\ medium.jpg');
 		height: 50em;
 		margin-left: 4em;
 		margin-right: 4em;
@@ -459,7 +459,7 @@ footer {
 		margin: auto;
 		width: 85vw;
 		height: 80vh;
-		background-image: url('/img/parada1\ big.jpg');
+		background-image: url('./img/parada1\ big.jpg');
 		background-size: cover;
 		background-position-y: 5em;
 	}
