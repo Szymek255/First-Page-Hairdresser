@@ -503,7 +503,7 @@ footer {
     margin: auto;
     width: 85vw;
     height: 80vh;
-    background-image: url("./img/parada1big.jpg");
+    background-image: url("../img/parada-1-big.jpg");
     background-size: cover;
     background-position-y: 5em;
   }
